@@ -7,7 +7,7 @@ public enum Earth {
 
     Earth(String desc) {
         description = desc;
-        }
+    }
 
     public String getDescription() {
         return description;
